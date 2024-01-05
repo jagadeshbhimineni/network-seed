@@ -7,3 +7,11 @@
 
 
 - This environment provides us with the capability to perform a range of testing procedures, including but not limited to, testing IP addresses via HTTP requests, conducting network protocol testing, and monitoring and manipulating data packets.
+
+#### Another ways to set up the environment
+- Another choice we have for creating the environment is to use `Seed-Lab` from GitHub, but it requires Virtualmeching with an `Ubuntu` environment and is quite heavy. 
+  #### What is `seed`
+    - As `seed` is the username, you are free to use any other name you choose.
+
+#### How to set up 
+- The setup instructions as well as the system and environment requirements are located in the source script directory. 

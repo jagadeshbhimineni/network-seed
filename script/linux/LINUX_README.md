@@ -1,6 +1,5 @@
 # Linux machine seu up
 #### Author: `Jagadesh Bhimineni`
-#### Reviewer: `TBA`
 #### Date: `Dec 15 2023`
 
 ### Howto set up in Linux machine 

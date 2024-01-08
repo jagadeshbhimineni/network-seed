@@ -1,6 +1,5 @@
 # Networking Lab Environment
 #### `Author`: `Jagadesh Bhimineni`
-#### `Reviewer`: 
 #### `Date`: `Dec 15, 2023`
 
 ### Why do we need this environment

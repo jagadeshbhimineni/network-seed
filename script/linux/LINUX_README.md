@@ -1,6 +1,7 @@
 # Linux machine seu up
-#### Author: `Jagadesh Bhimineni`
-#### Date: `Dec 15 2023`
+#### `Author`: **Jagadesh Bhimineni**
+#### `Reviewer`: **Prof.Timothy Finan** `University of New Hampshire- Manchester`
+#### `Date`: Dec 15, 2023
 
 ### Howto set up in Linux machine 
 - Use the **terminal** to run the script file, `sudo` or `superuser` privileges might be required.
